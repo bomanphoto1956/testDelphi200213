@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020-02-03 11:45:12.766,=C:\Users\kjbo.PERGAS\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2020-02-03 11:46:14.412,C:\Projekt\TestDelphiGitHub\TestDelphiGH.pas=C:\Users\kjbo.PERGAS\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2020-02-03 11:46:14.412,C:\Projekt\TestDelphiGitHub\TestDelphiGH.dfm=C:\Users\kjbo.PERGAS\Documents\Embarcadero\Studio\Projects\Unit7.dfm</Transaction>
+    <Transaction>2020-02-03 11:46:47.576,C:\Projekt\TestDelphiGitHub\PTestDelphiGH.pas=C:\Projekt\TestDelphiGitHub\TestDelphiGH.pas</Transaction>
+    <Transaction>2020-02-03 11:46:47.576,C:\Projekt\TestDelphiGitHub\PTestDelphiGH.dfm=C:\Projekt\TestDelphiGitHub\TestDelphiGH.dfm</Transaction>
+    <Transaction>2020-02-03 11:47:45.505,C:\Projekt\TestDelphiGitHub\ProjDGh.dproj=C:\Users\kjbo.PERGAS\Documents\Embarcadero\Studio\Projects\Project6.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
